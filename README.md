@@ -1,4 +1,4 @@
 spring4-websocket
 =================
 
-WebSocket sample by spring framewrok4
+WebSocket sample by spring framework4
