@@ -93,7 +93,6 @@ $(function() {
 		<div class="container" id="log"></div>
 	</div>
 
-	</div>
 	<div class="container">
 		<form id="form" action="#">
 			<input type="text" id="message" /><input type="submit" id="send" value="送信" />
